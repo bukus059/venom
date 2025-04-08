@@ -1,9 +1,9 @@
 {
-  "name": "Rabid Touch",
-  "short_name": "Rabid Touch",
+  "name": "Goofy Mountain",
+  "short_name": "Goofy Mountain",
   "id": "com.example.gamename",
   "description": "",
-  "orientation": "portrait",
+  "orientation": "landscape",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "black",
